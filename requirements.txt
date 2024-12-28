@@ -23,13 +23,13 @@ cffi==1.17.1
     #   pynacl
 chardet==5.2.0
     # via python-debian
-charset-normalizer==3.4.0
+charset-normalizer==3.4.1
     # via requests
-click==8.1.7
+click==8.1.8
     # via snapcraft (setup.py)
 craft-application==4.4.0
     # via snapcraft (setup.py)
-craft-archives==2.0.1
+craft-archives==2.0.2
     # via
     #   craft-application
     #   snapcraft (setup.py)
@@ -103,7 +103,7 @@ lazr-restfulclient==0.14.6
     #   craft-archives
     #   launchpadlib
     #   snapcraft (setup.py)
-lazr-uri==1.0.6
+lazr-uri==1.0.7
     # via
     #   craft-archives
     #   launchpadlib
@@ -145,7 +145,7 @@ progressbar==2.5
     # via snapcraft (setup.py)
 protobuf==5.28.3
     # via macaroonbakery
-psutil==6.1.0
+psutil==6.1.1
     # via gnupg
 pycparser==2.22
     # via cffi
